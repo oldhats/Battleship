@@ -1,8 +1,27 @@
-This is the *Battleship* project I made myself.
+## Battleship Game
+This is a simple implementation of the classic Battleship game in Java. The program allows two players to take turns placing their ships on a 10x10 grid and making shots to sink each other's fleet.
 
 
-<p>Writing games is probably one of the most exciting tasks in programming. While creating your first console game, you will learn about processing user input and handling errors.</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/125?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/125</a>
+## How to Play
+Players take turns placing their ships on the game field by entering coordinates.
 
-Here's the link to the project: https://hyperskill.org/projects/125
+The game prompts each player to make a shot by entering coordinates.
 
-Check out my profile: https://hyperskill.org/profile/428701183
+The game continues until one player sinks all the ships of the opponent.
+
+## Game Structure
+The program consists of the following classes:
+
+- **Main**: Contains the main method to start the game.
+- **Game**: Manages the flow of the game, including player turns and actions.
+- **Player**: Represents a player with their own battlefield.
+- **Battlefield**: Represents the game field and includes methods for ship placement, making shots, and printing the field.
+- **Ship**: Represents individual ships with methods for setting coordinates, recording hits, and checking the ship's status.
+
+## Contribution
+Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and suggestions are always welcome!
+
+## License
+This project is licensed under the MIT License.
+
+Enjoy the Battleship game!
