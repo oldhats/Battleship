@@ -1,0 +1,54 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship/*
+!/Battleship/task/
+/Battleship/task/*
+!/Battleship/task/src
+
+# Project exclude paths
+/Topics/Custom exceptions/Custom exceptions features/out/
+/Topics/Custom exceptions/Custom exceptions features/out/production/classes/
+/Topics/Custom exceptions/DriverNotReadyException/out/
+/Topics/Custom exceptions/DriverNotReadyException/out/production/classes/
+/Topics/Custom exceptions/Handle incorrect inputs/out/
+/Topics/Custom exceptions/Handle incorrect inputs/out/production/classes/
+/Topics/Custom exceptions/Square class/out/
+/Topics/Custom exceptions/Square class/out/production/classes/
+/Topics/Custom exceptions/Theory/out/
+/Topics/Custom exceptions/Theory/out/production/classes/
+/Topics/Input streams/Byte vs character input streams/out/
+/Topics/Input streams/Byte vs character input streams/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/Input streams/Theory/out/
+/Topics/Input streams/Theory/out/production/classes/
+/Topics/Overview of the basic program/The first program/out/
+/Topics/Overview of the basic program/The first program/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/The while and do-while loops/Collatz conjecture/out/
+/Topics/The while and do-while loops/Collatz conjecture/out/production/classes/
+/Topics/Throwing exceptions/Days of the week/out/
+/Topics/Throwing exceptions/Days of the week/out/production/classes/
+/Topics/Throwing exceptions/How to throw an exception/out/
+/Topics/Throwing exceptions/How to throw an exception/out/production/classes/
+/Topics/Throwing exceptions/Possible declaration/out/
+/Topics/Throwing exceptions/Possible declaration/out/production/classes/
+/Topics/Throwing exceptions/Theory/out/
+/Topics/Throwing exceptions/Theory/out/production/classes/
+/Topics/Throwing exceptions/Throw an IOException/out/
+/Topics/Throwing exceptions/Throw an IOException/out/production/classes/
+/Topics/Throwing exceptions/Throwing statements/out/
+/Topics/Throwing exceptions/Throwing statements/out/production/classes/
