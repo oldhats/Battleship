@@ -18,10 +18,4 @@ The program consists of the following classes:
 - **Battlefield**: Represents the game field and includes methods for ship placement, making shots, and printing the field.
 - **Ship**: Represents individual ships with methods for setting coordinates, recording hits, and checking the ship's status.
 
-## Contribution
-Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and suggestions are always welcome!
 
-## License
-This project is licensed under the MIT License.
-
-Enjoy the Battleship game!
